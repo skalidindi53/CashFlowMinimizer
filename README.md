@@ -1,4 +1,5 @@
-# Cashflow Minimizer https://cdn-icons-png.flaticon.com/512/3490/3490810.png
+# Cashflow Minimizer ![image](https://github.com/skalidindi53/CashFlowMinimizer/assets/94879708/812d7aef-ddb5-43dd-a970-98c169d3d512)
+
 Cashflow Minimizer is a dynamic financial management tool designed to streamline and simplify the way roommates split rent and utilities. Created to tackle the complexity of shared expenses, this application leverages a specialized algorithm to calculate individual obligations, ensuring a fair and transparent distribution.
 
 
