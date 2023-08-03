@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkextrafont import Font
 from tkinter import ttk
 
 
