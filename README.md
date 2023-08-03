@@ -22,3 +22,5 @@ Cashflow Minimizer is a dynamic financial management tool designed to streamline
 Simply clone this repository and run the main.py file in your code editior.
     
 ## Code
+![image](https://github.com/skalidindi53/CashFlowMinimizer/assets/94879708/19b8518f-c10c-4aaf-baff-22a645d51c47)
+
