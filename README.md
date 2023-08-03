@@ -12,7 +12,6 @@ Cashflow Minimizer is a dynamic financial management tool designed to streamline
 
 
 ## Demo
-
 ![Updated Demo vide for CFM](https://github.com/skalidindi53/CashFlowMinimizer/assets/94879708/c035f09a-607b-4571-897b-7c190c9a022e)
 
 
